@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class Company {
     private String name, description, type;
     private int companySize;

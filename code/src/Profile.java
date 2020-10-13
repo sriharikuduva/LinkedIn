@@ -1,3 +1,5 @@
+import java.util.List;
+
 public class Profile {
     private String summary;
     private List<Experience> experiences;
